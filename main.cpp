@@ -39,7 +39,7 @@ int main()
 		break;
 	}
 
-
+	system("pause")
 	delete[] Array1;
 	Array1 = NULL;
 	delete[] Array2;
